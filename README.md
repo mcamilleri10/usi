@@ -22,11 +22,11 @@ select the correct pip environment: shift-cmd-P to open the Command Palette, sea
 
 -run `python3 manage.py runserver` and go to http://localhost:8000/admin in your browser. log in with the credentials you created
 
--in a new terminal window, cd into the `frontend` directory
+-keep the backend server running, and in a new terminal window, cd into the `frontend` directory
 
 -run `npm install`
 
--run `npm start` and go to http://localhost:3000 to view the data in a sortable table
+-run `npm start` and go to http://localhost:3000 in your browser to view the data in a sortable table
 
 -when finished, kill both servers with `ctrl-c`
 
