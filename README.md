@@ -18,7 +18,7 @@ select the correct pip environment: shift-cmd-P to open the Command Palette, sea
 
 -run `python3 manage.py createsuperuser` and then input desired admin username, email, and password
 
--run `python3 manage.py loaddata seed_data.json` to seed the database
+-run `python3 manage.py loaddata seed_data.json` to seed the database with races from the 2022 F1 season
 
 -run `python3 manage.py runserver` and go to http://localhost:8000/admin in your browser. log in with the credentials you created
 
