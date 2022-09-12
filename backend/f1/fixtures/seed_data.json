@@ -1,0 +1,244 @@
+[
+  {
+    "model": "f1.f1race",
+    "pk": 1,
+    "fields": {
+      "season": "2022",
+      "round": "1",
+      "circuit": "Bahrain International Circuit",
+      "country": "Bahrain",
+      "date": "2022-03-20"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 2,
+    "fields": {
+      "season": "2022",
+      "round": "2",
+      "circuit": "Jeddah Corniche Circuit",
+      "country": "Saudi Arabia",
+      "date": "2022-03-27"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 3,
+    "fields": {
+      "season": "2022",
+      "round": "3",
+      "circuit": "Albert Park Circuit",
+      "country": "Australia",
+      "date": "2022-04-10"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 4,
+    "fields": {
+      "season": "2022",
+      "round": "4",
+      "circuit": "Imola Circuit",
+      "country": "Italy",
+      "date": "2022-04-24"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 5,
+    "fields": {
+      "season": "2022",
+      "round": "5",
+      "circuit": "Miami International Autodrome",
+      "country": "USA",
+      "date": "2022-05-08"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 6,
+    "fields": {
+      "season": "2022",
+      "round": "6",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "country": "Spain",
+      "date": "2022-05-22"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 7,
+    "fields": {
+      "season": "2022",
+      "round": "7",
+      "circuit": "Circuit de Monaco",
+      "country": "Monaco",
+      "date": "2022-05-29"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 8,
+    "fields": {
+      "season": "2022",
+      "round": "8",
+      "circuit": "Baku City Circuit",
+      "country": "Azerbaijan",
+      "date": "2022-06-12"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 9,
+    "fields": {
+      "season": "2022",
+      "round": "9",
+      "circuit": "Circuit Gilles Villeneuve",
+      "country": "Canada",
+      "date": "2022-06-19"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 10,
+    "fields": {
+      "season": "2022",
+      "round": "10",
+      "circuit": "Silverstone Circuit",
+      "country": "UK",
+      "date": "2022-07-03"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 11,
+    "fields": {
+      "season": "2022",
+      "round": "11",
+      "circuit": "Red Bull Ring",
+      "country": "Austria",
+      "date": "2022-07-10"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 12,
+    "fields": {
+      "season": "2022",
+      "round": "12",
+      "circuit": "Circuit Paul Ricard",
+      "country": "France",
+      "date": "2022-07-24"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 13,
+    "fields": {
+      "season": "2022",
+      "round": "13",
+      "circuit": "Hungaroring",
+      "country": "Hungary",
+      "date": "2022-07-31"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 14,
+    "fields": {
+      "season": "2022",
+      "round": "14",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "country": "Belgium",
+      "date": "2022-08-28"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 15,
+    "fields": {
+      "season": "2022",
+      "round": "15",
+      "circuit": "Circuit Zandvoort",
+      "country": "Netherlands",
+      "date": "2022-09-04"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 16,
+    "fields": {
+      "season": "2022",
+      "round": "16",
+      "circuit": "Monza Circuit",
+      "country": "Italy",
+      "date": "2022-09-11"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 17,
+    "fields": {
+      "season": "2022",
+      "round": "17",
+      "circuit": "Marina Bay Street Circuit",
+      "country": "Singapore",
+      "date": "2022-10-02"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 18,
+    "fields": {
+      "season": "2022",
+      "round": "18",
+      "circuit": "Suzuka International Racing Course",
+      "country": "Japan",
+      "date": "2022-10-09"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 19,
+    "fields": {
+      "season": "2022",
+      "round": "19",
+      "circuit": "Circuit of the Americas",
+      "country": "USA",
+      "date": "2022-10-23"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 20,
+    "fields": {
+      "season": "2022",
+      "round": "20",
+      "circuit": "Autódromo Hermanos Rodríguez",
+      "country": "Mexico",
+      "date": "2022-10-30"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 21,
+    "fields": {
+      "season": "2022",
+      "round": "21",
+      "circuit": "Interlagos Circuit",
+      "country": "Brazil",
+      "date": "2022-11-13"
+    }
+  },
+  {
+    "model": "f1.f1race",
+    "pk": 22,
+    "fields": {
+      "season": "2022",
+      "round": "22",
+      "circuit": "Yas Marina Circuit",
+      "country": "Abu Dhabi",
+      "date": "2022-11-20"
+    }
+  }
+]
